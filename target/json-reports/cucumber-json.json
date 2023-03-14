@@ -1,0 +1,212 @@
+[
+  {
+    "line ": 1,
+    "elements": [
+      {
+        "start_timestamp": "2023  -02-  02T11:25  :   26.477Z",
+        "before": [
+          {
+            "result": {
+              "duration": 4997400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooks.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "1",
+        "description": "",
+        "id": "hooks-kullanimi-feature;1",
+        "after": [
+          {
+            "result": {
+              "duration": 1000500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooks.Hooks.tearDowv()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2999500,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "Ilk feature için cucumber indirdim",
+            "match": {
+              "location": "stepdefinitions.firstStepDefinition.ılk_feature_için_cucumber_indirdim()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 999900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Senaryomu calistirdigimda",
+            "match": {
+              "location": "stepdefinitions.firstStepDefinition.senaryomu_calistirdigimda()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1000300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Senaryomun  calistigini konsolda görmeliyim",
+            "match": {
+              "location": "stepdefinitions.firstStepDefinition.senaryomun_calistigini_konsolda_görmeliyim()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-02-02T11:25:26.604Z",
+        "before": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooks.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 7,
+        "name": "2",
+        "description": "",
+        "id": "hooks-kullanimi-feature;2",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooks.Hooks.tearDowv()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Ilk feature için cucumber indirdim",
+            "match": {
+              "location": "stepdefinitions.firstStepDefinition.ılk_feature_için_cucumber_indirdim()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Senaryomu calistirdigimda",
+            "match": {
+              "location": "stepdefinitions.firstStepDefinition.senaryomu_calistirdigimda()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 999300,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "Senaryomun  calistigini   konsolda görmeliyim",
+            "match": {
+              "location": "stepdefinitions.firstStepDefinition.senaryomun_calistigini_konsolda_görmeliyim()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2023-02-02T11:25:26.677Z",
+        "before": [
+          {
+            "result": {
+              "duration": 998100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooks.Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "3",
+        "description": "",
+        "id": "hooks-kullanimi-feature;3",
+        "after": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "match": {
+              "location": "hooks.Hooks.tearDowv()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "Ilk feature için cucumber indirdim",
+            "match": {
+              "location": "stepdefinitions.firstStepDefinition.ılk_feature_için_cucumber_indirdim()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Senaryomu calistirdigimda",
+            "match": {
+              "location": "stepdefinitions.firstStepDefinition.senaryomu_calistirdigimda()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "Senaryomun  calistigini konsolda görmeliyim",
+            "match": {
+              "location": "stepdefinitions.firstStepDefinition.senaryomun_calistigini_konsolda_görmeliyim()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Hooks kullanimi Feature",
+    "description": "",
+    "id": "hooks-kullanimi-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/07_Hook.feature",
+    "tags": []
+  }
+]

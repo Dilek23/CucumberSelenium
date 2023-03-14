@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="3" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="3" time="0.55">
+    <testcase classname="Hooks kullanimi Feature" name="1" time="0.041">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given Ilk feature için cucumber indirdim....................................undefined
+When Senaryomu calistirdigimda..............................................skipped
+Then Senaryomun  calistigini konsolda görmeliyim............................skipped
+]]></failure>
+    </testcase>
+    <testcase classname="Hooks kullanimi Feature" name="2" time="0.006">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given Ilk feature için cucumber indirdim....................................undefined
+When Senaryomu calistirdigimda..............................................skipped
+Then Senaryomun  calistigini konsolda görmeliyim............................skipped
+]]></failure>
+    </testcase>
+    <testcase classname="Hooks kullanimi Feature" name="3" time="0.005">
+        <failure message="The scenario has pending or undefined step(s)" type="java.lang.Exception"><![CDATA[Given Ilk feature için cucumber indirdim....................................undefined
+When Senaryomu calistirdigimda..............................................skipped
+Then Senaryomun  calistigini konsolda görmeliyim............................skipped
+]]></failure>
+    </testcase>
+</testsuite>
